@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>mineplane_1.png</file>
+        <file>back_1.jpg</file>
+        <file>back_1.png</file>
+        <file>left.png</file>
+        <file>right.png</file>
+        <file>fire.png</file>
+        <file>mineplane_2.png</file>
+        <file>mineplane_3.png</file>
+        <file>enemy_1.png</file>
+        <file>enemy_2.png</file>
+        <file>enemy_3.png</file>
+        <file>enemy_4.png</file>
+        <file>bomb-1.png</file>
+        <file>bomb-2.png</file>
+        <file>bomb-3.png</file>
+        <file>bomb-4.png</file>
+        <file>bomb-5.png</file>
+        <file>bomb-6.png</file>
+        <file>bomb-7.png</file>
+        <file>lk.png</file>
+        <file>boss_1.png</file>
+        <file>boss_fire.png</file>
+        <file>win.png</file>
+    </qresource>
+    <qresource prefix="/gif">
+        <file>big.GIF</file>
+        <file>warn.gif</file>
+        <file>boss_half.gif</file>
+        <file>smoke.gif</file>
+    </qresource>
+</RCC>
